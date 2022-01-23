@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "a2360f94900d962d60bb32cf3ba5bd0f5c8d2c01b400e45af681e7a4b59156ff"
+    }
+  ],
+  "containerPath" : "/Users/andre/Documents/School Files/SEM3/OOP345/MS3/MS3.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/andre/Documents/School Files/SEM3/OOP345/MS3/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/andre/Documents/School Files/SEM3/OOP345/MS3/Build/Products",
+      "derivedDataPath" : "/Users/andre/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/andre/Library/Developer/Xcode/DerivedData/MS3-coljxncytrmgihdthzactvmhccsm/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/andre/Library/Developer/Xcode/DerivedData/MS3-coljxncytrmgihdthzactvmhccsm/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/andre/Documents/School Files/SEM3/OOP345/MS3/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
